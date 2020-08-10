@@ -5,10 +5,6 @@
 ## This is a leech to FILE repo! Leech to STREAM(video) availabe here > [LEECH TO STREAM](https://github.com/prgofficial/LeechToStream)
 
 
-### For Support join here [MoviezOnlySupport](https://telegram.dog/moviezonlysupport)
-### Working example group [Leech Here](https://telegram.dog/leechtorrentmoviesonly)
-
-
 # Benefits :-
     ✓ Telegram Torrent/Directlink leecher with its unzipping, unrar and untar
     ✓ Custom file name, thumbnail
